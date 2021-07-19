@@ -1,0 +1,61 @@
+﻿@model IEnumerable<AnimalStore2.Models.Order>
+
+@{
+    ViewBag.Title = "GetAllOrder";
+}
+
+<h2>Не оброблені замовлення</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Ім'я
+        </th>
+        <th>
+            Адреса
+        </th>
+        <th>
+            Телефон
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Дата замовлення
+        </th>
+        <th>
+            Статус замовлення
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Line1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PhoneNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Редагувати", "EditOrder", new { id=item.OrderId }) |
+            @Html.ActionLink("Деталі", "DetailsOrder", new { id=item.OrderId }) 
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.OrderId })*@
+        </td>
+    </tr>
+}
+
+</table>

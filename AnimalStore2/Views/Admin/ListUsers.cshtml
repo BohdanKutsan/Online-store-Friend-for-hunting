@@ -1,0 +1,115 @@
+﻿@model IEnumerable<AnimalStore2.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "Панель адміністратора: список тварин";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+ @*@(List<string> roles = ViewBag.userManager.GetRoles(user.Id);)*@
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Список коритувачів</h3>
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-condensed table-bordered">
+            <tr>
+                <th class="text-right">Ім'я</th>
+                <th class="text-center">Email</th>
+                <th class="text-center">Пароль</th>
+                <th class="text-left">Номер телефону</th>
+                
+                <th class="text-center">Дія</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+        <tr>
+
+            <td class="text-center">@Html.ActionLink(item.UserName, "DetailsUser", new { _Id = item.Id })</td>
+            <td class="text-center">@item.Email</td>
+            <td class="text-left">@item.PasswordHash</td>
+            <td class="text-center">@item.PhoneNumber</td>
+
+           
+          
+
+
+            <td class="text-center">
+                @using (Html.BeginForm("DeleteUser", "Admin"))
+                {
+                    @Html.Hidden("_email", item.Email)
+                    <input type="submit"
+                           class="btn btn-default btn-xs"
+                           value="Видалити" />
+                }
+            </td>
+        </tr>
+            }
+        </table>
+    </div>
+    <div class="panel-footer">
+        @Html.ActionLink("Добавити користувача", "RegisterUser", null,
+            new { @class = "btn btn-default" })
+    </div>
+</div>
+
+
+
+
+@*@{
+        ViewBag.Title = "ListUsers";
+        Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    }
+
+    <h2>ListUsers</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PasswordHash)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th></th>
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.PasswordHash)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.ActionLink("Додати роль", "Edit", new { id=item.Id }) |
+
+                @Html.ActionLink("Видалити", "Delete", new { id=item.Id })
+            </td>
+        </tr>
+    }
+
+    </table>*@

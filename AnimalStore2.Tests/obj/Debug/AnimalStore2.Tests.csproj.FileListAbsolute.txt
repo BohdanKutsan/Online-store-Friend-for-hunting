@@ -1,0 +1,5 @@
+D:\AnimalStore2\AnimalStore2.Tests\obj\Debug\AnimalStore2.Tests.csprojAssemblyReference.cache
+D:\AnimalStore2\AnimalStore2.Tests\obj\Debug\AnimalStore2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2.Tests\obj\Debug\AnimalStore2.Tests.csprojAssemblyReference.cache
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2.Tests\obj\Debug\AnimalStore2.Tests.csproj.CoreCompileInputs.cache
+D:\AnimalStore2\AnimalStore2.Tests\obj\Debug\AnimalStore2.Tests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<string>
+    <ul class="nav nav-pills">
+        <li class="active">
+            @Html.ActionLink("Всі види тварин", "List", "Dogs", null,
+new { @class = "nav nav-pills" })
+        </li>
+                @foreach (var link in Model)
+                {
+    <li>
+        @Html.RouteLink(link, new
+                    {
+                        controller = "Dogs",
+                        action = "List",
+                        type = link,
+                        page = 1
+                    }, new
+                    {
+                        @class = "nav nav-pills"
+                        + (link == ViewBag.SelectedType ? " btn-primary" : "")
+                    })
+     </li>
+                }
+</ul>

@@ -1,0 +1,710 @@
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll.config
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\AnimalStore2.pdb
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe.config
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\csc.rsp
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe.config
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\csi.rsp
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.AppContext.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Console.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Compression.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Claims.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.ValueTuple.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe.config
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\vbc.rsp
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\EntityFramework.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Owin.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Razor.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\WebGrease.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.Razor.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.pdb
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\EntityFramework.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csprojAssemblyReference.cache
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CoreCompileInputs.cache
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CopyComplete
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.pdb
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Castle.Core.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Moq.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\WebActivatorEx.dll
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Castle.Core.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Moq.pdb
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Moq.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.InitialCreate.resources
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.GenerateResource.cache
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB.resources
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB1.resources
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB2.resources
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB3.resources
+C:\Users\K_Bog\source\repos\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB11.resources
+D:\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll.config
+D:\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll
+D:\AnimalStore2\AnimalStore2\bin\AnimalStore2.pdb
+D:\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe
+D:\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe.config
+D:\AnimalStore2\AnimalStore2\bin\roslyn\csc.rsp
+D:\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe
+D:\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe.config
+D:\AnimalStore2\AnimalStore2\bin\roslyn\csi.rsp
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.AppContext.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Collections.Immutable.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Console.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Compression.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Reflection.Metadata.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.AccessControl.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Claims.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.ValueTuple.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe
+D:\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe.config
+D:\AnimalStore2\AnimalStore2\bin\roslyn\vbc.rsp
+D:\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe
+D:\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe.config
+D:\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.dll
+D:\AnimalStore2\AnimalStore2\bin\Castle.Core.dll
+D:\AnimalStore2\AnimalStore2\bin\EntityFramework.dll
+D:\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Web.Infrastructure.dll
+D:\AnimalStore2\AnimalStore2\bin\Moq.dll
+D:\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.dll
+D:\AnimalStore2\AnimalStore2\bin\Ninject.dll
+D:\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.dll
+D:\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.dll
+D:\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.dll
+D:\AnimalStore2\AnimalStore2\bin\Owin.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Razor.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.dll
+D:\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.dll
+D:\AnimalStore2\AnimalStore2\bin\WebActivatorEx.dll
+D:\AnimalStore2\AnimalStore2\bin\WebGrease.dll
+D:\AnimalStore2\AnimalStore2\bin\Castle.Core.xml
+D:\AnimalStore2\AnimalStore2\bin\Moq.pdb
+D:\AnimalStore2\AnimalStore2\bin\Moq.xml
+D:\AnimalStore2\AnimalStore2\bin\Ninject.xml
+D:\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.xml
+D:\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.xml
+D:\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.Razor.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.xml
+D:\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.xml
+D:\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.xml
+D:\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.pdb
+D:\AnimalStore2\AnimalStore2\bin\EntityFramework.xml
+D:\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.Helpers.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.Mvc.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.Optimization.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.Razor.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.InitialCreate.resources
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB.resources
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB1.resources
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB2.resources
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB3.resources
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB11.resources
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.GenerateResource.cache
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.dll
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.pdb
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll.config
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\AnimalStore2.pdb
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe.config
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\csc.rsp
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe.config
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\csi.rsp
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.AppContext.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Console.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe.config
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\vbc.rsp
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Castle.Core.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\EntityFramework.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Moq.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Owin.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Razor.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\WebActivatorEx.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\WebGrease.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Castle.Core.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Moq.pdb
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Moq.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.Razor.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.pdb
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\EntityFramework.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.InitialCreate.resources
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB.resources
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB1.resources
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB2.resources
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB3.resources
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB11.resources
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.GenerateResource.cache
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CoreCompileInputs.cache
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CopyComplete
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.dll
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.pdb
+C:\Users\alexander.feskov\Downloads\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csprojAssemblyReference.cache
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csprojAssemblyReference.cache
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CoreCompileInputs.cache
+D:\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CopyComplete
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll.config
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\AnimalStore2.pdb
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe.config
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\csc.rsp
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe.config
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\csi.rsp
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.AppContext.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Collections.Immutable.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Console.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Compression.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.AccessControl.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Claims.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.ValueTuple.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe.config
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\vbc.rsp
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe.config
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Castle.Core.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\EntityFramework.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Web.Infrastructure.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Moq.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Owin.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Razor.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\WebActivatorEx.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\WebGrease.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Castle.Core.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Moq.pdb
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Moq.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.Razor.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.pdb
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\EntityFramework.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.Helpers.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.Mvc.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.Optimization.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.Razor.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csprojAssemblyReference.cache
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.InitialCreate.resources
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB.resources
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB1.resources
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB2.resources
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB3.resources
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB11.resources
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.GenerateResource.cache
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CoreCompileInputs.cache
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CopyComplete
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.dll
+D:\Cесія літня 2019\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.pdb
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll.config
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\AnimalStore2.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\AnimalStore2.pdb
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\csc.exe.config
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\csc.rsp
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\csi.exe.config
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\csi.rsp
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.AppContext.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Console.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Compression.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Claims.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.ValueTuple.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\vbc.exe.config
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\vbc.rsp
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Castle.Core.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\EntityFramework.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Moq.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Owin.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Razor.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\WebActivatorEx.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\WebGrease.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Castle.Core.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Moq.pdb
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Moq.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Ninject.Web.Mvc.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Helpers.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Mvc.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Optimization.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.Razor.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\System.Web.WebPages.Razor.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Newtonsoft.Json.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Antlr3.Runtime.pdb
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\EntityFramework.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\EntityFramework.SqlServer.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csprojAssemblyReference.cache
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.InitialCreate.resources
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB.resources
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB1.resources
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB2.resources
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB3.resources
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.Migrations.MigrateDB11.resources
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.GenerateResource.cache
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CoreCompileInputs.cache
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.csproj.CopyComplete
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.dll
+C:\Users\K_Bog\Desktop\AnimalStore2\AnimalStore2\obj\Debug\AnimalStore2.pdb

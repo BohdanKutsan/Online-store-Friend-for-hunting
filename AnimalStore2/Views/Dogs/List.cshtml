@@ -1,0 +1,31 @@
+﻿@model AnimalStore2.WebUI.IndexViewModelDogs
+
+
+
+@using AnimalStore2.Helpers
+@{
+    ViewBag.Title = "Собаки";
+}
+
+
+
+    <div>
+        @Html.Action("Menu", "Nav")
+    </div>
+<br/>
+<br />
+<table class="table">
+    
+    @foreach (var item in Model.Dogs)
+    {
+<tr>
+    @Html.Partial("Prise", item)
+    
+</tr>
+    }
+</table>
+<br />
+<div class="btn-group">
+    @Html.PageLinks(Model.PageInfo, x => Url.Action("List", new { page = x, type = Model.CurrentTypeOfActivity }))
+</div>
+

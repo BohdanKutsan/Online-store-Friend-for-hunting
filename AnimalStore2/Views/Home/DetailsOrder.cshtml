@@ -1,0 +1,35 @@
+﻿@model IEnumerable<AnimalStore2.Models.Animal>
+
+@{
+    ViewBag.Title = "DetailsOrder";
+}
+
+<h2>Заказ № @ViewBag.order.OrderId.  </h2>
+<h2> Ім'я:@ViewBag.order.Name.</h2>
+<h2> Номер телефону:@ViewBag.order.PhoneNumber.</h2>
+<h2> Адрес доставки:@ViewBag.order.Line1.</h2>
+
+
+@foreach (var item in Model)
+{
+
+    <div class="well">
+        <h3>
+            <strong>@item.Name </strong>
+            <span class="pull-right label label-primary">@item.Price.ToString("# грн")</span>
+        </h3>
+
+        <span class="lead">Вік:</span>
+        <span class="lead">@item.Age</span>
+        <br />
+        <span class="lead">Порода:</span>
+        <span class="lead">@item.Breed</span>
+        <br />
+        <span class="lead">Окрас:</span>
+        <span class="lead">@item.ColorOfAnimal</span>
+    </div>
+}
+<div class="text-center">
+
+    @Html.ActionLink("Назад", "GetAllOrder", null, new { @class = "btn btn-primary" })
+</div>
